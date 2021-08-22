@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xmlvalidate", "xmlvalidate\xmlvalidate.csproj", "{31879E41-9758-40CD-B3F6-DF2B098B4CC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jsonvalidate", "jsonvalidate\jsonvalidate.csproj", "{2E8CFF1A-25AE-4838-B500-D739D409E464}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jsvalidate", "jsvalidate\jsvalidate.csproj", "{773B474B-8921-4829-A7ED-AFA1F74E83D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31879E41-9758-40CD-B3F6-DF2B098B4CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31879E41-9758-40CD-B3F6-DF2B098B4CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31879E41-9758-40CD-B3F6-DF2B098B4CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31879E41-9758-40CD-B3F6-DF2B098B4CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E8CFF1A-25AE-4838-B500-D739D409E464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E8CFF1A-25AE-4838-B500-D739D409E464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E8CFF1A-25AE-4838-B500-D739D409E464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E8CFF1A-25AE-4838-B500-D739D409E464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{773B474B-8921-4829-A7ED-AFA1F74E83D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773B474B-8921-4829-A7ED-AFA1F74E83D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773B474B-8921-4829-A7ED-AFA1F74E83D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773B474B-8921-4829-A7ED-AFA1F74E83D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
