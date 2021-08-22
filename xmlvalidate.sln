@@ -1,13 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xmlvalidate", "xmlvalidate\xmlvalidate.csproj", "{31879E41-9758-40CD-B3F6-DF2B098B4CC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xmlvalidate", "xmlvalidate\xmlvalidate.csproj", "{31879E41-9758-40CD-B3F6-DF2B098B4CC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jsonvalidate", "jsonvalidate\jsonvalidate.csproj", "{2E8CFF1A-25AE-4838-B500-D739D409E464}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "jsonvalidate", "jsonvalidate\jsonvalidate.csproj", "{2E8CFF1A-25AE-4838-B500-D739D409E464}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jsvalidate", "jsvalidate\jsvalidate.csproj", "{773B474B-8921-4829-A7ED-AFA1F74E83D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "jsvalidate", "jsvalidate\jsvalidate.csproj", "{773B474B-8921-4829-A7ED-AFA1F74E83D3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8F651C01-5FD5-455B-9723-83813F092D8B}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.build.props = Directory.build.props
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,5 +35,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E484569-44D1-403B-9D13-53FF43BA254E}
 	EndGlobalSection
 EndGlobal
