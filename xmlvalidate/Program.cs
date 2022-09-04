@@ -6,7 +6,7 @@ namespace xmlvalidate
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static void Main(params string[] args)
         {
             if (args == null || args.Length == 0)
             {
