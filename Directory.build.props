@@ -4,7 +4,6 @@
     <OutputPath>..\$(Configuration)\</OutputPath>
     <RunAnalyzersDuringBuild>false</RunAnalyzersDuringBuild>
     <EnableNETAnalyzers>true</EnableNETAnalyzers>
-    <OutputPath>..\$(Configuration)\</OutputPath>
     <LangVersion>Latest</LangVersion>
     <OptionStrict>On</OptionStrict>
     <DelaySign>false</DelaySign>
