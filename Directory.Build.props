@@ -1,0 +1,13 @@
+<Project>
+
+  <PropertyGroup>
+    <OutputPath>..\$(Configuration)\</OutputPath>
+    <RunAnalyzersDuringBuild>false</RunAnalyzersDuringBuild>
+    <EnableNETAnalyzers>true</EnableNETAnalyzers>
+    <LangVersion>Latest</LangVersion>
+    <OptionStrict>On</OptionStrict>
+    <DelaySign>false</DelaySign>
+    <RollForward>LatestMajor</RollForward>
+  </PropertyGroup>
+
+</Project>
